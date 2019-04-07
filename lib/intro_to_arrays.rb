@@ -14,5 +14,5 @@ def third_element(array,index_number)
   array[2]
 end
 
-def 
+
 
